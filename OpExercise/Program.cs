@@ -18,9 +18,10 @@ namespace OpExercise
             Console.WriteLine("a * a = " + (a * a));
             Console.WriteLine("a / b = " + quotient);
             Console.WriteLine("a % b = " + remainder);
+            Console.WriteLine($"so {a} / {b} is {quotient} with the a remainder of {remainder}");
             Console.WriteLine();
 
-            // method that will Calculate the area of a circle based on its radius
+                // method that will Calculate the area of a circle based on its radius
 
             Console.WriteLine("Now we are going to calculate the area of a circle");
             Console.WriteLine("What is the radius of the circle?");
