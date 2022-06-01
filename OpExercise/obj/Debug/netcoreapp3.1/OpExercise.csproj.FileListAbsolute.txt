@@ -1,0 +1,14 @@
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\bin\Debug\netcoreapp3.1\OpExercise.exe
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\bin\Debug\netcoreapp3.1\OpExercise.deps.json
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\bin\Debug\netcoreapp3.1\OpExercise.runtimeconfig.json
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\bin\Debug\netcoreapp3.1\OpExercise.runtimeconfig.dev.json
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\bin\Debug\netcoreapp3.1\OpExercise.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\bin\Debug\netcoreapp3.1\OpExercise.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\obj\Debug\netcoreapp3.1\OpExercise.csproj.AssemblyReference.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\obj\Debug\netcoreapp3.1\OpExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\obj\Debug\netcoreapp3.1\OpExercise.AssemblyInfoInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\obj\Debug\netcoreapp3.1\OpExercise.AssemblyInfo.cs
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\obj\Debug\netcoreapp3.1\OpExercise.csproj.CoreCompileInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\obj\Debug\netcoreapp3.1\OpExercise.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\obj\Debug\netcoreapp3.1\OpExercise.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\OpExercise\OpExercise\obj\Debug\netcoreapp3.1\OpExercise.genruntimeconfig.cache
